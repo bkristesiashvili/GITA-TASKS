@@ -6,4 +6,4 @@ bin
 obj
 ./BindingTest
 BindingTest
-.gitignore
+./.gitignore
